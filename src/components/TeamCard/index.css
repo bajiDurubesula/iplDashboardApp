@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.eachCardContainer {
+  display: flex;
+  padding: 12px 24px;
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+  width: 400px;
+  height: 200px;
+  align-items: center;
+  gap: 20px;
+}
+.eachLogo {
+  height: 150px;
+  width: 200px;
+}
+.eachTeamName {
+  font-size: 24px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  color: #ffffff;
+  text-decoration: none;
+}

@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.latestMatchesContainer {
+  background-color: #0f172a;
+  background-size: cover;
+  padding: 20px;
+  width: 800px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+  border-radius: 8px;
+}
+.opponentName {
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+.date {
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+}
+.detailsOfMatch {
+  font-size: 14px;
+  font-weight: 300;
+  font-family: 'Bree Serif';
+}
+.titlesOfMatch {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+}
+.opponentImg {
+  height: 150px;
+}
